@@ -1,15 +1,35 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Leading healthcare transformation across Africa",
+  "text": "BEDA represents a transformative opportunity in Africa's rapidly expanding healthcare technology market, positioned as Zambia's premier data analytics consulting firm with our revolutionary MedLink platform driving digital health transformation across the continent.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "African Healthcare Expertise",
+      "content": "Deep understanding of African healthcare contexts, government relationships, and regulatory frameworks. We address critical gaps with affordable, localized solutions designed specifically for Sub-Saharan Africa's unique challenges and opportunities.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "MedLink Innovation",
+      "content": "Our flagship SaaS platform provides patient-controlled digital health records with mobile-first design, offline capabilities, and multi-language support. Built specifically for African healthcare systems with HL7 FHIR R4 compliance.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Proven Market Impact",
+      "content": "Operating in a $3.8B African digital health market growing at 23.4% CAGR. We're positioned to serve 19M+ Zambians with expansion across Rwanda, Nigeria, Kenya and the broader SADC region.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Comprehensive Analytics",
+      "content": "End-to-end healthcare data analytics consulting covering electronic health records integration, population health analytics, clinical decision support systems, and enterprise data solutions across multiple sectors.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Technical Excellence",
+      "content": "Cloud-native architecture optimized for African infrastructure constraints. Advanced security frameworks, HL7 FHIR compliance, and integration capabilities supporting both legacy systems and modern digital health platforms.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Sustainable Growth Model",
+      "content": "Hybrid consulting-plus-platform approach with diversified revenue streams. Strong government partnerships, international development funding opportunities, and proven methodologies for scalable implementation.",
       "icon": "notes.svg"
     }
   ]

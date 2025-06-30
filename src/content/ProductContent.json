@@ -1,4 +1,4 @@
 {
-  "title": "That's about it!",
-  "text": "If you are familiar with React, or SPA frameworks in general, there shouldn't be any confusing parts about this template. if not, you can always reach out to me and I'll try me best to answer your questions."
+  "title": "MedLink: Next-Generation Health Records Built for Africa",
+  "text": "Engineered specifically for African healthcare challenges, MedLink combines cutting-edge technology with practical design. Our platform features end-to-end encryption, HL7 FHIR compliance, offline synchronization, and seamless integration with existing hospital systems. From power outages to connectivity issues, MedLink ensures healthcare data is always accessible when and where it's needed most."
 }

@@ -1,12 +1,12 @@
 {
-  "title": "Landing page template for developers & startups",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "title": "Healthcare Data Analytics Excellence in Africa",
+  "text": "Leading the $3.8B African digital health transformation with our MedLink platform and expert consulting services. Driving measurable health outcomes through intelligent data analytics across Zambia and beyond.",
   "button": [
     {
-      "title": "Explore"
+      "title": "Get Started"
     },
     {
-      "title": "Learn more",
+      "title": "Discover MedLink",
       "color": "#fff"
     }
   ]
